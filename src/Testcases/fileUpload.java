@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 /**
- * Created by Iammasariya on 4/21/2016.
+ * Created by Iammasariya on 4/13/2016.
  */
 public class fileUpload {
     public static void main(String[] args)
